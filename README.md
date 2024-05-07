@@ -18,13 +18,13 @@
 <h2 align="center"> 👨‍💻 O que estou estudando? </h2>
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width= "40" height= "40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height= "40" />
   
 </div>
 
 <h2 align="center"> ⏰ O que já estudei </h2>
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height= "40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width= "40" height= "40"/>
   
 </div>
