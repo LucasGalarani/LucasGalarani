@@ -1,9 +1,9 @@
 # Pagina de um garoto de programa🔐
 #### Meu nome é Lucas e o apelido é Galarani, mas você chama como quiser.
 
-## Linguagens e tecnologias
-
 <div align="center">
+
+## Linguagens e tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "40" height= "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width= "40" height= "40"/>
 
