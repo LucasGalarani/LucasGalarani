@@ -1,5 +1,5 @@
 # Pagina de um garoto de programa🔐
-#### Meu nome é Lucas e o apelido é Galarani, mas você chama como quiser.
+#### Meu nome é Lucas e o apelido é Guarani(segredo mas os professores não pronunciam meu sobrenome da forma certa, n conta pra aline ein), mas você chama como quiser.
 
 <div align="center">
 
