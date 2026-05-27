@@ -42,7 +42,7 @@ public class Lucas extends Person {
 ![My Skills](https://skillicons.dev/icons?i=supabase,mysql)
 
 ### Learning
-![My Skills](https://skillicons.dev/icons?i=react,php,java,javascript)
+![My Skills](https://skillicons.dev/icons?i=php,java,javascript,typescript,prisma)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)
